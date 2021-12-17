@@ -1,6 +1,4 @@
 #
-# Copyright (C) 2021 ZeakyX
-#
 
 include $(TOPDIR)/rules.mk
 
